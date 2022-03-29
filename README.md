@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/gamercherrie/Four-Card-Feature-Section)
+- Live Site URL: [Vercel](https://four-card-feature-section-blond-two.vercel.app)
 
 ## My process
       I decided to transition to React instead of HTML after learning a bit more about CSS. It took me a few days putting
