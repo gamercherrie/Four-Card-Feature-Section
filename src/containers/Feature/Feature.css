@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+  height: 100vh;
+  background-color: var(--neutral-light-gray);
+
+}
+
+.feature__heading {
+  padding-top: 5%;
+}
+
+.feature__body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 73vh;
+}
+
+.feature__body-row2{
+  margin: 0 25px;
+}
+
+.feature__middle{
+  margin: 25px 0;
+}
+
+@media screen and (max-width: 550px) {
+  .feature__body{
+    flex-direction: column;
+    padding-top: 100%;
+  }
+  .feature__body-row3 {
+     padding-bottom: 10%;
+  }
+}
